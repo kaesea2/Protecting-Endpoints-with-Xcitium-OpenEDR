@@ -2,23 +2,24 @@
 
 ****Learning objectives****
 After completing this lab, you will be able to:
-• Set up the Xcitium cloud manager
-• Add an endpoint device to the OpenEDR system
-• Locate endpoint data in the cloud manager
-• Manage endpoint patches from the cloud manager
-• Scan an endpoint for malware and find the results in the cloud manager
+- Set up the Xcitium cloud manager
+- Add an endpoint device to the OpenEDR system
+- Locate endpoint data in the cloud manager
+- Manage endpoint patches from the cloud manager
+- Scan an endpoint for malware and find the results in the cloud manager
+
 ****Prerequisites****
-• A smartphone with an authenticator application installed. Some examples of common authenticator applications include the following programs:
-    ◦ Google Authenticator
-    ◦ Microsoft Authenticator
-    ◦ LastPass Authenticator
-    ◦ 2FAS
-• One or more devices to use as an endpoint. The device must be an internet-enabled computer, tablet, or smartphone with one of the following operating systems (OSs) installed:
-    ◦ Windows
-    ◦ macOS
-    ◦ Linux
-    ◦ iOS
-    ◦ Android
+- A smartphone with an authenticator application installed. Some examples of common authenticator applications include the following programs:
+    - Google Authenticator
+    - Microsoft Authenticator
+    - LastPass Authenticator
+    - 2FAS
+- One or more devices to use as an endpoint. The device must be an internet-enabled computer, tablet, or smartphone with one of the following operating systems (OSs) installed:
+    - Windows
+    - macOS
+    - Linux
+    - iOS
+    - Android
 For this lab, you can set up endpoint protection on the same device that you’re using to explore the cloud manager. But for a more realistic experience, use a separate device as your endpoint.
 
 Goto 
